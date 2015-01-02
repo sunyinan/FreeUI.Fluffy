@@ -7,3 +7,6 @@
 [submodule "Interface/AddOns/OmniCC"]
 	path = Interface/AddOns/OmniCC
 	url = git@github.com:tullamods/OmniCC.git
+[submodule "Interface/AddOns/OmniCC_Config"]
+	path = Interface/AddOns/OmniCC_Config
+	url = git@github.com:tullamods/OmniCC_Config.git
