@@ -1,0 +1,15 @@
+## Interface: 60000
+## Title: MediaStorage
+
+
+
+
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibSharedMedia-3.0\lib.xml
+
+MediaStorage.lua
+
+
+

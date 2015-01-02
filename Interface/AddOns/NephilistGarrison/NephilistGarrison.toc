@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: Nephilist: Garrison
+
+## Version: 1.4.1
+## Author: lieandswell <Nephthys @ Hyjal-US>
+## Notes: Improves garrison interface
+
+NephilistGarrison.lua
+
