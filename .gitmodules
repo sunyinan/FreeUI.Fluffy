@@ -1,3 +1,6 @@
 [submodule "Fonts"]
 	path = Fonts
 	url = git@github.com:solor/Font-Package-for-FreeUI.Fluffy.git
+[submodule "Interface/AddOns/xCT+"]
+	path = Interface/AddOns/xCT+
+	url = git://git.curseforge.net/wow/xct-plus/mainline.git
