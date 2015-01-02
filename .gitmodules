@@ -4,3 +4,6 @@
 [submodule "Interface/AddOns/xCT+"]
 	path = Interface/AddOns/xCT+
 	url = git@github.com:dandruff/xCT.git
+[submodule "Interface/AddOns/OmniCC"]
+	path = Interface/AddOns/OmniCC
+	url = git@github.com:tullamods/OmniCC.git
